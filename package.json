@@ -1,0 +1,15 @@
+{
+  "name": "distancecalculationapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ashraftech.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ashraf_distancecalculation_tool": "^1.0.0"
+  }
+}
